@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/music.dir/music.c.o -o music 
